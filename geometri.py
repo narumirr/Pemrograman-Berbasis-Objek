@@ -1,7 +1,5 @@
-# Modul geometri.py berisi fungsi terkait geometri
-
-def hitun_luas_persegi(sisi):
-return sisi * sisi
+def hitung_luas_persegi(sisi):
+    return sisi * sisi
 
 def hitung_luas_persegi_panjang(panjang, lebar):
     return panjang * lebar
